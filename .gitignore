@@ -1,0 +1,27 @@
+# Local diagnostics, device exports and downloads
+outputs/
+private/
+downloads/
+backups/
+*.log
+logcat*.txt
+*.dmp
+*.apk
+*.exe
+*.dll
+*.wcp
+*.zip
+*.7z
+*.bak
+.env
+.env.*
+*token*.json
+*session*.json
+cookies*
+credentials*
+secrets*
+prefix/
+containers/
+drive_c/
+.DS_Store
+Thumbs.db
